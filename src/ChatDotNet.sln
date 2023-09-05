@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatDotNet", "ChatDotNet\ChatDotNet.csproj", "{414BB559-D876-427E-B644-22DE4B1F3EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatDotNet.Tests", "ChatDotNet.Tests\ChatDotNet.Tests.csproj", "{689DA5AF-174F-48A6-BB45-16D19FA8B9D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414BB559-D876-427E-B644-22DE4B1F3EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414BB559-D876-427E-B644-22DE4B1F3EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414BB559-D876-427E-B644-22DE4B1F3EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414BB559-D876-427E-B644-22DE4B1F3EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689DA5AF-174F-48A6-BB45-16D19FA8B9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689DA5AF-174F-48A6-BB45-16D19FA8B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689DA5AF-174F-48A6-BB45-16D19FA8B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689DA5AF-174F-48A6-BB45-16D19FA8B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05F1AD5-16B5-4667-B3B7-DA4EBC512BF3}
+	EndGlobalSection
+EndGlobal
