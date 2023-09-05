@@ -26,7 +26,7 @@ public class ChannelListener
         _manager = manager;
         _started = DateTimeOffset.Now;
 
-        #region Bult-in Listseners
+        #region Bult-in Listeners
         // Listener: Test
         //      beep
         _listeners.Add((message, channel) =>
